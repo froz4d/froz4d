@@ -37,13 +37,3 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://postimg.cc/KRy11cXC"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/froz4d/froz4d/output/snake.svg" alt="Snake animation" />
-
-###
