@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Game Developer<br>-------------------------<br>Hello World!!<br>I am currently studying at Bangkok University<br><br>School of Information Technology and Innovation - Games and Interactive Media Major<br><br>My Skills :<br>👨‍🏫 Leadership Skill<br>🏃‍♂️ Project Management Skill<br>👨‍💻 Coding Skill<br><br>I'm interested in the following:<br>🖥️ Game Dev (news/trick-tip)<br>🎨 art<br>😄 Entertainment media (anime?/movie/game)<br>🎮 My favorite game genre is Strategy</p>
+<p align="left">Game Developer<br>-------------------------<br>Hello World!! Good Programmer Follower Order!! <br>I am currently studying at Bangkok University<br><br>School of Information Technology and Innovation - Games and Interactive Media Major<br><br>My Skills :<br>👨‍🏫 Leadership Skill<br>🏃‍♂️ Project Management Skill<br>👨‍💻 Coding Skill<br><br>I'm interested in the following:<br>🖥️ Game Dev (news/trick-tip)<br>🎨 art<br>😄 Entertainment media (anime?/movie/game)<br>🎮 My favorite game genre is Strategy</p>
 
 ###
 
